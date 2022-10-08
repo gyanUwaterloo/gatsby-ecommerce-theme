@@ -28,10 +28,8 @@ const Brand = (props) => {
     }
   </style>
 
-  <text x="20" y="35" class="small">My</text>
-  <text x="40" y="35" class="heavy">cat</text>
-  <text x="55" y="55" class="small">is</text>
-  <text x="65" y="55" class="Rrrrr">Grumpy!</text>
+  <text x="20" y="35" class="small">Radhil</text>
+  <text x="40" y="35" class="heavy">Commerce</text>
 </svg>
     </div>
   );
